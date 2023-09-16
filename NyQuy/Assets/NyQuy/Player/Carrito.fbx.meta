@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 89608caebc7a41547b46f25989e7fba3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Carrito(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Plane
+      parentName: Carrito(Clone)
+      position: {x: -0, y: 0.050655555, z: -0.25902674}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 102.212395, y: 153.3186, z: 102.212395}
+    - name: Plane.001
+      parentName: Carrito(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 150, z: 100}
+    - name: Plane.002
+      parentName: Carrito(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 150, z: 100}
+    - name: Plane.003
+      parentName: Carrito(Clone)
+      position: {x: -0.0000000170299, y: 0.48210153, z: 0.82922435}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 150, z: 100}
+    - name: Plane.004
+      parentName: Carrito(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 150, z: 100}
+    - name: Plane.006
+      parentName: Carrito(Clone)
+      position: {x: -0.51301193, y: 0.24615704, z: -1.6946242}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 87.157486, y: 130.73624, z: 87.157486}
+    - name: Circle
+      parentName: Carrito(Clone)
+      position: {x: -1.0221239, y: -0.102360725, z: 0.29488686}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 25.174772, y: 25.174772, z: 25.174772}
+    - name: Circle.002
+      parentName: Carrito(Clone)
+      position: {x: -0.9326017, y: -0.0018051615, z: -0.7890625}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 35.01036, y: 35.01036, z: 35.01036}
+    - name: Plane.007
+      parentName: Carrito(Clone)
+      position: {x: -0, y: 0.17550838, z: -0.25902674}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 96.0039, y: 144.00584, z: 96.0039}
+    - name: Plane.005
+      parentName: Carrito(Clone)
+      position: {x: -0, y: 0.53945935, z: -0.04869765}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 33.159492, y: 33.159492, z: 33.159492}
+    - name: Area
+      parentName: Carrito(Clone)
+      position: {x: 2.97981, y: 3.6483848, z: 1.658885}
+      rotation: {x: 0.7697511, y: -0.2801665, z: -0.19617471, w: 0.53898567}
+      scale: {x: 100, y: 100, z: 99.99999}
+    - name: Area.001
+      parentName: Carrito(Clone)
+      position: {x: 0.025827987, y: 2.4022288, z: -1.7835748}
+      rotation: {x: 0.6427876, y: 0, z: 0, w: 0.7660445}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Plane.008
+      parentName: Carrito(Clone)
+      position: {x: -0, y: 0.53945935, z: -0.018434953}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 33.159492, y: 33.159492, z: 33.159492}
+    - name: Camera
+      parentName: Carrito(Clone)
+      position: {x: 1.9002498, y: 1.2570119, z: 1.0631864}
+      rotation: {x: 0.10038947, y: -0.85424036, z: 0.17962581, w: 0.4774201}
+      scale: {x: 100, y: 99.99999, z: 100}
+    - name: Plane.009
+      parentName: Carrito(Clone)
+      position: {x: -0.0000000170299, y: 0.48210153, z: 0.83699226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 150, z: 100}
+    - name: Plane.010
+      parentName: Carrito(Clone)
+      position: {x: -0.0000000170299, y: 0.48210153, z: 0.83699226}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 150, z: 100}
+    - name: Plane.011
+      parentName: Carrito(Clone)
+      position: {x: -0.0000000079058395, y: 0.8045042, z: 0.042709954}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 33.159492, y: 33.159492, z: 33.159492}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

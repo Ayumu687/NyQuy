@@ -19,21 +19,5 @@ public class PanelManager : MonoBehaviour
             }
         }
     }
-    private void Start()
-    {
-        audi = GetComponent<AudioSource>();
-        audi.Play();
-        audi.loop = true;
-    }
-    private void Update()
-    {
-        if (AudioManager.sound)
-        {
-            audi.volume = 0.4f;
-        } else
-        {
-            audi.volume = 0;
-        }
-    }
 
 }
